@@ -7,6 +7,9 @@ This app is meant to be a self directed exercise in
 3. Have a simple app, but something more complicated than a generic todo list
 
 ## General Use
+[Repository](https://github.com/wilso663/markdown-notes)  
+[Live Solution](https://wilso663.github.io/markdown-notes/)
+
 Notes can be created with the plus icon on the sidebar and deleted by clicking the x icon next to the note in the sidebar
 Users can
 1) Write in the markdown window
